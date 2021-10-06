@@ -1,0 +1,4 @@
+const rhino = 'https://files.worldwildlife.org/wwfcmsprod/images/African_White_Rhino_WW2131989/carousel_small/30tbe21g47_African_White_Rhino_WW2131989.jpg';
+const llama = 'https://scontent.ftbs6-2.fna.fbcdn.net/v/t1.6435-9/244179364_1933636900143384_4840562458998811945_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFxL2B-ElvsGsOokKsxjjrIHEj-PNaL7RocSP481ovtGgiyqfczKvPGTf7k01jmaFAvqVre4ieB-vG4r_vSqgdj&_nc_ohc=45IXoBUBzU8AX_Ery9L&tn=EPxbcOhEuhqPsApx&_nc_ht=scontent.ftbs6-2.fna&oh=6ad41e14a594e96793475486f5403c1d&oe=61819DAF';
+const deer  = 'https://www.gannett-cdn.com/presto/2019/11/07/USAT/62addd15-1872-4bc3-9f2a-f597f521eabd-05-buck.jpg?crop=2999,1687,x0,y150&width=2999&height=1687&format=pjpg&auto=webp';
+const immortalJellyfish = 'https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/explore/news-and-blogs/2017-images/2017-june/flipboard/immortal-jellyfish-flip/2706387-1-eng-US/immortal-jellyfish-flip_facebookshare_1200.jpg';
